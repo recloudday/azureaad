@@ -1,7 +1,7 @@
 <h1>Azure/Entra and Active Directory - Create New Users and Groups</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this lab, I successfully managed users and groups within Entra, a powerful identity and access management tool. I started by confirming correct users existed on the account, configuring essential details and access permissions. Next, I created a user group to organize users for streamlined management and policy application. Finally, I assigned ownership of the newly created group to the new user, ensuring they have the necessary permissions to manage group settings and membership. Through this lab, I gained a solid understanding of user and group management within Entra, equipping me with the skills to efficiently manage identities and access in an organization.
 <br />
 
 
